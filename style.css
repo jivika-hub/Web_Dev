@@ -1,0 +1,179 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* font-size: 0px; */
+}
+
+p {
+    font-size: 0px;
+}
+
+header {
+    height: 96px;
+    padding: 24px 80px;
+    gap: 8px;
+}
+
+nav {
+    display: flex;
+    height: 48px;
+    width: 1280px;
+    justify-content: space-between;
+    margin: auto;
+    gap: 32px;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    height: 24px;
+    width: 474px;
+    gap: 32px;
+    align-items: center;
+}
+
+#login {
+    width: 89px;
+    height: 48px;
+    border-radius: 10px;
+    padding: 12px 20px;
+}
+
+#start_free_trial {
+    width: 163px;
+    height: 48px;
+    border-radius: 10px;
+    padding: 12px 20px;
+}
+
+
+#heading1 {
+    height: 220px;
+    width: 569px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+/* #heading1{
+    font-weight: 600;
+    line-height: 64px;
+    height: 128px;
+    width: 569px;
+
+
+} */
+#main_list ul {
+    height: 24px;
+    gap: 20px;
+    /* line-height: 24px; */
+}
+
+#pricing {
+    display: flex;
+}
+
+#daysfreetrial {
+    padding: 16px 32px;
+    gap: 8px;
+    border-radius: 10px;
+    width: 379px;
+    height: 56px;
+}
+
+#p1 {
+    height: 56px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0.04em;
+}
+
+#p2 {
+    height: 35px;
+    width: 366px;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+#pricing {
+    width: 1324px;
+    height: 503px;
+    display: flex;
+    gap: 32px;
+}
+
+.pricingdiv {
+    background-color: #F7F8F9;
+    border: 1px solid#D0D5DD;
+    border-radius: 20px;
+}
+
+.one {
+    height: 405px;
+}
+
+footer {
+    background: #3940A0;
+    color: white;
+    padding: 40px 60px;
+    gap: 8px;
+
+}
+
+#footer {
+    width: 1320px;
+    height: 441px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+footer li {
+    list-style: none;
+    font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+
+line-height: 24px;
+letter-spacing: 2%;
+
+}
+
+span {
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 32px;
+    letter-spacing: 4%;
+    text-transform: uppercase;
+
+}
+
+#span2{
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
+
+
+
